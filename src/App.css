@@ -13,6 +13,26 @@
   }
 }
 
+.black-nav {
+  background:black;
+  color:white;
+  height:10vh;
+  display:flex;
+  justify-content:center;
+}
+
+.list {
+  text-align:left;
+  border-bottom: 1px solid grey;
+  padding-left: 20px
+}
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: #ffffd4;
+  text-align: left;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
